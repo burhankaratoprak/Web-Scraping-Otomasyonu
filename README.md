@@ -4,7 +4,7 @@
 
 ## Web Scraping Automation
 This project is a comprehensive Selenium-based automation tool developed for web scraping and performing automated operations on websites. With its user-friendly interface, it allows even those without technical knowledge to easily perform web scraping and automation tasks.
-
+ 
 ### Features
 
 - **Easy to Use**: Menu-based interface for simple automation operations
